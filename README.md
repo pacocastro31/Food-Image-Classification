@@ -4,7 +4,7 @@ _El proyecto consta de un clasificador de imagenes que cuenta con 5 clases: Hamb
 
 ## Dataset
 
-_Las imágenes fueron obtenidas de Kaggle. Búscalas en el siguiente Link: https://www.kaggle.com/kmader/food41_
+_Las imágenes fueron obtenidas de Kaggle. En el link https://drive.google.com/drive/folders/1tW-tWVgwW_pz1MjQBWzbxzkjGpSxjxTm?usp=sharing puedes encontrar estos 5 platillos en el archivo Food.zip (ya están divididos entre carpetas). Busca el dataset completo en el siguiente Link: https://www.kaggle.com/kmader/food41 _
 
 ## Step by Step
 Revisa **StepbyStep.pdf** para encontrar una resumida explicación de cómo se elaboró el proyecto.
