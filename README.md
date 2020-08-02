@@ -1,6 +1,6 @@
 # Food-Image-Classification
 
-_El proyecto consta de un clasificador de imagenes, utilizando una convolutional neural network, específicamente VGG16. Este proyecto fue elaborado para la clase de Visión Computacional, impartida por el Profesor Daniel Cabrera, ITESM Campus MTY._
+_El proyecto consta de un clasificador de imagenes que cuenta con 5 clases: Hamburguesa, Pizza, Papas a la francesa, Hot dog y Filete.  Utilizando una convolutional neural network, específicamente VGG16. Este proyecto fue elaborado para la clase de Visión Computacional, impartida por el Profesor Daniel Cabrera, ITESM Campus MTY._
 
 ## Dataset
 
